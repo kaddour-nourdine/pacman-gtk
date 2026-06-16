@@ -1,0 +1,1 @@
+/home/nourdine/Development/pacman/android/app/src/main/cpp/CMakeLists.txt

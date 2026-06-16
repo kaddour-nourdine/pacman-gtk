@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/home/nourdine/Development/pacman/android/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/nourdine/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/nourdine/Development/pacman/android/app/.cxx/Debug/6j4d6q1w/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/nourdine/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/nourdine/Development/pacman/android/app/.cxx/Debug/6j4d6q1w/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "pacman::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "pacman",
+      "output": "/home/nourdine/Development/pacman/android/app/build/intermediates/cxx/Debug/6j4d6q1w/obj/arm64-v8a/libpacman.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/home/nourdine/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/linux-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/home/nourdine/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
