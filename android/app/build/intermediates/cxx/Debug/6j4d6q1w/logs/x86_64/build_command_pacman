@@ -1,4 +1,0 @@
-/home/nourdine/Android/Sdk/cmake/3.22.1/bin/ninja \
-  -C \
-  /home/nourdine/Development/pacman/android/app/.cxx/Debug/6j4d6q1w/x86_64 \
-  pacman

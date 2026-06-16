@@ -1,7 +1,0 @@
-# ninja log v5
-1	451	1781533989332320535	CMakeFiles/pacman.dir/native-lib.cpp.o	9a2f41a35c868f10
-1	533	1781533989416322053	CMakeFiles/pacman.dir/home/nourdine/Development/pacman/gamemodel.cpp.o	57a80221b1688dcf
-533	557	1781533989444322558	/home/nourdine/Development/pacman/android/app/build/intermediates/cxx/Debug/6j4d6q1w/obj/x86/libpacman.so	d120474f11dbbe19
-3	583	1781619157844936884	CMakeFiles/pacman.dir/native-lib.cpp.o	9a2f41a35c868f10
-3	701	1781619157964938078	CMakeFiles/pacman.dir/home/nourdine/Development/pacman/gamemodel.cpp.o	57a80221b1688dcf
-701	727	1781619157992938358	/home/nourdine/Development/pacman/android/app/build/intermediates/cxx/Debug/6j4d6q1w/obj/x86/libpacman.so	d120474f11dbbe19
